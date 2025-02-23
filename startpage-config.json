@@ -118,6 +118,11 @@
 						"name": "ChatGPT",
 						"url": "https://chat.openai.com/",
 						"icon": "simple-icons:openai"
+					},
+					{
+						"name": "Synology",
+						"url": "http://scheifi.quickconnect.to/",
+						"icon": "cbi:synology-dsm"
 					}
 				]
 			},
