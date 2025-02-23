@@ -1,6 +1,6 @@
 {
-	"username": "Excalith",
-	"title": "Excalith Start Page",
+	"username": "martin",
+	"title": "Start Page",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -17,7 +17,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "https://raw.githubusercontent.com/4rr0wx/image_storage/refs/heads/main/default-wallpaper.svg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -47,7 +47,7 @@
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
 		"titleColor": "yellow",
-		"image": "assets/default-icon.svg",
+		"image": "https://raw.githubusercontent.com/4rr0wx/image_storage/refs/heads/main/default-icon.svg",
 		"data": [
 			"Time: {time}",
 			"Date: {date}",
@@ -81,16 +81,6 @@
 				"url": "https://duckduckgo.com/?q={}"
 			},
 			{
-				"alias": "!d",
-				"name": "DuckDuckGo Lucky Search",
-				"url": "https://duckduckgo.com/?q=!ducky+{}"
-			},
-			{
-				"alias": "b",
-				"name": "Brave Search",
-				"url": "https://search.brave.com/search?q={}"
-			},
-			{
 				"alias": "gh",
 				"name": "Github Search",
 				"url": "https://github.com/search?q={}"
@@ -99,11 +89,6 @@
 				"alias": "s",
 				"name": "Stack Overflow Search",
 				"url": "https://stackoverflow.com/search?q={}"
-			},
-			{
-				"alias": "r",
-				"name": "Subreddit Search",
-				"url": "https://reddit.com/r/{}"
 			},
 			{
 				"alias": "w",
@@ -120,24 +105,19 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "Home Assistant",
+						"url": "https://homeassistant.4rr0wx.com/",
+						"icon": "cbi:tabbar-home"
 					},
 					{
-						"name": "Keybase",
+						"name": "Unify",
 						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"icon": "cbi:unifi"
 					},
 					{
-						"name": "GPT",
+						"name": "ChatGPT",
 						"url": "https://chat.openai.com/",
 						"icon": "simple-icons:openai"
-					},
-					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
 					}
 				]
 			},
@@ -147,24 +127,24 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
+						"name": "Dashboard",
+						"url": "https://dash.prod.4rr0wx.com/",
+						"icon": "material-symbols:dashboard-outline-rounded"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Atlassian",
+						"url": "https://4rr0wx.atlassian.net/jira/your-work",
+						"icon": "mdi:atlassian"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"name": "Dockge PROD",
+						"url": "https://dockge.prod.4rr0wx.com/",
+						"icon": "mdi:docker"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "PaperlessNGX",
+						"url": "https://paperless.prod.4rr0wx.com/",
+						"icon": "simple-icons:paperlessngx"
 					}
 				]
 			},
