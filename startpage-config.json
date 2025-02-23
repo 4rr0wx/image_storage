@@ -142,36 +142,14 @@
 						"icon": "mdi:docker"
 					},
 					{
+						"name": "Github",
+						"url": "https://github.com/",
+						"icon": "mdi:github"
+					},
+					{
 						"name": "PaperlessNGX",
 						"url": "https://paperless.prod.4rr0wx.com/",
 						"icon": "simple-icons:paperlessngx"
-					}
-				]
-			},
-			{
-				"title": "Social",
-				"color": "cyan",
-				"align": "left",
-				"links": [
-					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
-					},
-					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
 					}
 				]
 			},
@@ -181,51 +159,46 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Stellwerk Simulator",
+						"url": "https://http://www.stellwerksim.de/",
+						"icon": "mdi:level-crossing-signals"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "Leitstellenspiel",
+						"url": "https://www.leitstellenspiel.de/",
+						"icon": "lucide:siren"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
-					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Leitstellensimulator",
+						"url": "https://lstsim.de/",
+						"icon": "streamline:ambulance-solid"
 					}
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Studium",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Moodle",
+						"url": "https://moodle.hochschule-burgenland.at/",
+						"icon": "simple-icons:moodle"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "CIS",
+						"url": "https://cis.hochschule-burgenland.at/",
+						"icon": "carbon:scis-transparent-supply"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "SCI Hub",
+						"url": "https://sci-hub.st/",
+						"icon": "academicons:sci-hub-square"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Google Scholar",
+						"url": "https://scholar.google.at/",
+						"icon": "fa6-brands:google-scholar"
 					}
 				]
 			},
@@ -235,24 +208,36 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Youtube",
+						"url": "https://youtube.com/",
+						"icon": "mdi:youtube"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "noted.lol",
+						"url": "https://noted.lol",
+						"icon": "fluent:note-20-filled"
+					}
+				]
+			},
+			{
+				"title": "Other",
+				"color": "grey",
+				"align": "left",
+				"links": [
+					{
+						"name": "Icon Libary",
+						"url": "https://icon-sets.iconify.design",
+						"icon": "tabler:icons-filled"
+					},					
+					{
+						"name": "Amazon",
+						"url": "https://amazon.com",
+						"icon": "mage:amazon"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Reddit",
+						"url": "https://reddit.com",
+						"icon": "mdi:reddit"
 					}
 				]
 			}
