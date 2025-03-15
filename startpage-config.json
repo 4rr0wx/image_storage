@@ -111,7 +111,7 @@
 					},
 					{
 						"name": "Unify",
-						"url": "https://keybase.io/",
+						"url": "https://unifi.ui.com/",
 						"icon": "cbi:unifi"
 					},
 					{
@@ -243,6 +243,11 @@
 						"name": "Reddit",
 						"url": "https://reddit.com",
 						"icon": "mdi:reddit"
+					},
+					{
+						"name": "Readwise Reader",
+						"url": "https://read.readwise.io/",
+						"icon": "arcticons:readwise"
 					}
 				]
 			}
