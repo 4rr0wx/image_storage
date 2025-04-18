@@ -1,0 +1,205 @@
+{
+  "about": {
+    "browser": "firefox",
+    "version": "20.4.2"
+  },
+  "showall": true,
+  "lang": "de",
+  "dark": "system",
+  "favicon": "",
+  "tabtitle": "",
+  "greeting": "Martin",
+  "pagegap": 1,
+  "pagewidth": 1600,
+  "time": true,
+  "main": true,
+  "dateformat": "auto",
+  "background_blur": 15,
+  "background_bright": 0.8,
+  "background_type": "unsplash",
+  "quicklinks": true,
+  "syncbookmarks": null,
+  "textShadow": 0.2,
+  "announcements": "major",
+  "review": -1,
+  "css": "",
+  "hide": {
+    "settingsicon": true,
+    "weatherdesc": false,
+    "weathericon": false,
+    "greetings": false
+  },
+  "linkstyle": "medium",
+  "linktitles": true,
+  "linkbackgrounds": true,
+  "linknewtab": false,
+  "linksrow": 6,
+  "linksmhrhdf": {
+    "_id": "linksmhrhdf",
+    "parent": "Other",
+    "order": 1,
+    "title": "Capacities",
+    "url": "https://app.capacities.io"
+  },
+  "linksrmqfof": {
+    "_id": "linksrmqfof",
+    "parent": "Other",
+    "order": 2,
+    "title": "Todoist",
+    "url": "https://app.todoist.com/app/"
+  },
+  "linkscackrg": {
+    "_id": "linkscackrg",
+    "parent": "Other",
+    "order": 0,
+    "title": "Wetter",
+    "url": "https://kachelmannwetter.com/at/wetter/2763795-ternitz"
+  },
+  "linksedankg": {
+    "_id": "linksedankg",
+    "parent": "default",
+    "order": 0,
+    "title": "Work ",
+    "url": "https://smatrics.atlassian.net/jira/your-work"
+  },
+  "linkspiimbn": {
+    "_id": "linkspiimbn",
+    "parent": "default",
+    "order": 2,
+    "title": "VerbundGPT",
+    "url": "https://chat.verbund.com/c/new"
+  },
+  "linksmdlnhn": {
+    "_id": "linksmdlnhn",
+    "parent": "default",
+    "order": 1,
+    "title": "Confluence",
+    "url": "https://smatrics.atlassian.net/wiki/company-hub"
+  },
+  "linkspmkdbl": {
+    "_id": "linkspmkdbl",
+    "parent": "default",
+    "order": 1744963820083,
+    "title": "AZM",
+    "url": "https://azm.siemens.at/"
+  },
+  "linkgroups": {
+    "on": true,
+    "selected": "Other",
+    "groups": [
+      "Other"
+    ],
+    "pinned": [
+      "default"
+    ],
+    "synced": []
+  },
+  "clock": {
+    "ampm": false,
+    "size": 1.125,
+    "analog": true,
+    "seconds": true,
+    "timezone": "auto",
+    "ampmlabel": false,
+    "worldclocks": false
+  },
+  "analogstyle": {
+    "face": "swiss",
+    "hands": "swiss",
+    "shape": "round",
+    "border": "#fff9",
+    "background": "#fff1"
+  },
+  "worldclocks": [
+    {
+      "timezone": "Europe/Vienna",
+      "region": "Wien"
+    },
+    {
+      "timezone": "America/Sao_Paulo",
+      "region": "San Francisco"
+    }
+  ],
+  "unsplash": {
+    "every": "tabs",
+    "collection": "A_jPq2RtjyE",
+    "lastCollec": "user",
+    "time": 1744964618920
+  },
+  "weather": {
+    "city": "alsergrund",
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "windy",
+    "forecast": "auto",
+    "temperature": "both",
+    "geolocation": "precise"
+  },
+  "notes": {
+    "on": false,
+    "text": "## Diese Notiz bearbeiten!\n\n[ ] Mit Markdown-Titeln, Listen und Kontrollkästchen\n\n[ ] Weitere Informationen unter https://bonjourr.fr/docs/overview",
+    "width": 40,
+    "opacity": 0.1,
+    "align": "left"
+  },
+  "searchbar": {
+    "on": true,
+    "background": "#fff2",
+    "width": 60,
+    "opacity": 0.1,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "google",
+    "request": "",
+    "placeholder": "Suche.."
+  },
+  "quotes": {
+    "on": true,
+    "author": false,
+    "type": "classic",
+    "frequency": "tabs",
+    "last": 1744964618917
+  },
+  "font": {
+    "size": "14",
+    "family": "",
+    "system": true,
+    "weightlist": [],
+    "weight": "400"
+  },
+  "supporters": {
+    "enabled": true,
+    "closed": true,
+    "month": 4
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "single": {
+        "items": {
+          "quotes": {
+            "box": "baseline center",
+            "text": ""
+          }
+        },
+        "grid": [
+          [
+            "time"
+          ],
+          [
+            "searchbar"
+          ],
+          [
+            "main"
+          ],
+          [
+            "quotes"
+          ],
+          [
+            "quicklinks"
+          ]
+        ]
+      }
+    }
+  }
+}
